@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hey Fellas 👋, I'm Ramadhan Putra
 
-<!--
-**RamadhanNoviandiP/RamadhanNoviandiP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently im 3rd Year student at [Institut Teknologi Telkom Surabaya](https://ittelkom-sby.ac.id).<br />
+Artificial Intellegence Enthusiast 👋<br />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **My Skills (Basic)**<br />
+React, NodeJS,
+Currently Learns Tensorflow and anything that related to Artificial Intellegence.
+
+✉️ **Reach me up on**<br />
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramadhannoviandiputra//)](https://www.linkedin.com/in/ramadhannoviandiputra/) Linkedin.com/in/ramadhannoviandiputra <br />
+**or** <br />
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rama.ae32@gmail.com)](mailto:rama.ae32@gmail.com) rama.ae32@gmail.com <br />
+ill try my best to reply as fast as possible.
+
