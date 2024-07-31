@@ -1,11 +1,11 @@
 ## Hey Fellas 👋, I'm Ramadhan Putra
 
-🎓 Currently im 3rd Year student at [Institut Teknologi Telkom Surabaya](https://ittelkom-sby.ac.id).<br />
-Artificial Intellegence Enthusiast 👋<br />
+🎓 Currently im Final Year student at [Telkom University].<br />
+Software Engineer/Machine Learning Engineer/Data Scientist 👋<br />
 
 
 💡 **My Skills (Basic)**<br />
-React, NodeJS,
+React, NodeJS, Python, Tensorflow, 
 Currently Learns Tensorflow and anything that related to Artificial Intellegence.
 
 ✉️ **Reach me up on**<br />
